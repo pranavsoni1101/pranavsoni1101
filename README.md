@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Pranav's Github stats](https://github-readme-stats.vercel.app/api?username=pranavsoni1101&theme=midnight-purple&show_icons=true)
+![Pranav's Github stats](https://github-readme-stats.vercel.app/api?username=pranavsoni1101&theme=midnight-purple&show_icons=true&count_private=true)
 <!--
 **pranavsoni1101/pranavsoni1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
