@@ -2,6 +2,8 @@
 ![Pranav's Github stats](https://github-readme-stats.vercel.app/api?username=pranavsoni1101&theme=midnight-purple&show_icons=true&count_private=true)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavsoni1101&theme=midnight-purple)](https://git.io/streak-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=pranavsoni1101&color=blueviolet)
 <!--
 **pranavsoni1101/pranavsoni1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
