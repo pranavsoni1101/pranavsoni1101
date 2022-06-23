@@ -4,6 +4,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavsoni1101&theme=midnight-purple)](https://git.io/streak-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=pranavsoni1101&color=blueviolet)
+<br>
+[![wakatime](https://wakatime.com/badge/user/7ffc67c6-d455-454c-894b-cc5791706dce.svg)](https://wakatime.com/@7ffc67c6-d455-454c-894b-cc5791706dce)
 <!--
 **pranavsoni1101/pranavsoni1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
