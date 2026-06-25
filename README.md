@@ -92,9 +92,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavsoni1101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsoni1101&theme=radical&hide_border=true" width="48%" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavsoni1101&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsoni1101&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -103,11 +104,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
+
+<!-- <p align="center">
+### 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=pranavsoni1101&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
+</p> -->
 
 ---
 
